@@ -1,2 +1,3 @@
-# Danuel
- Description
+# Example Mod
+ I named this mod after a friend I guess...
+ If I did something wrong dm me on discord ToonCra123#0878
