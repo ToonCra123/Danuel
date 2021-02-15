@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "danielmod:block/basic_container_block" }
+  }
+}
